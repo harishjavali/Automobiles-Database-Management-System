@@ -1,0 +1,16 @@
+insert into car_models values(311,1,"Corolla");
+insert into car_models values(312,1,"Etios");
+insert into car_models values(313,2,"Verna");
+insert into car_models values(314,2,"i20");
+insert into car_models values(315,2,"Venue");
+insert into car_models values(316,3,"Civic");
+insert into car_models values(317,4,"Swift");
+insert into car_models values(318,4,"Baleno");
+insert into car_models values(319,5,"Celtos");
+insert into car_models values(320,1,"Innova");
+insert into car_models values(321,3,"City");
+insert into car_models values(322,2,"i10");
+insert into car_models values(323,4,"Alto");
+insert into car_models values(324,4,"Sx4");
+insert into car_models values(325,5,"Carnival");
+

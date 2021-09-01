@@ -1,0 +1,5 @@
+insert into vehicle_categories values(411,"Hatchback");
+insert into vehicle_categories values(412,"Sedan");
+insert into vehicle_categories values(413,"MVP");
+insert into vehicle_categories values(414,"Estate");
+insert into vehicle_categories values(415,"SUV");

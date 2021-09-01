@@ -1,0 +1,12 @@
+fcid,fcname
+insert into finance_companies values(1001,"Bank of Baroda");
+insert into finance_companies values(1002,"SBI");
+insert into finance_companies values(1003,"HDFC");
+insert into finance_companies values(1004,"AXIS");
+insert into finance_companies values(1005,"ICICI");
+insert into finance_companies values(1006,"YES");
+insert into finance_companies values(1007,"PNB");
+insert into finance_companies values(1008,"Canara Bank");
+insert into finance_companies values(1009,"Central Bank");
+insert into finance_companies values(1010,"Kotak Bank");
+

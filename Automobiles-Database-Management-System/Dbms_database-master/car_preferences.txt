@@ -1,0 +1,6 @@
+insert into customer_preferences values(811,614,123);
+insert into customer_preferences values(812,616,124);
+insert into customer_preferences values(813,616,125);
+insert into customer_preferences values(814,614,126);
+insert into customer_preferences values(815,615,127);
+insert into customer_preferences values(816,616,128);

@@ -1,0 +1,16 @@
+insert into features_on_cars_for_sale values(511,612);
+insert into features_on_cars_for_sale values(512,619);
+insert into features_on_cars_for_sale values(513,616);
+insert into features_on_cars_for_sale values(514,611);
+insert into features_on_cars_for_sale values(515,611);
+insert into features_on_cars_for_sale values(516,620);
+insert into features_on_cars_for_sale values(517,617);
+insert into features_on_cars_for_sale values(518,615);
+insert into features_on_cars_for_sale values(519,615);
+insert into features_on_cars_for_sale values(520,617);
+insert into features_on_cars_for_sale values(521,615);
+insert into features_on_cars_for_sale values(522,612);
+insert into features_on_cars_for_sale values(523,612);
+insert into features_on_cars_for_sale values(524,612);
+insert into features_on_cars_for_sale values(525,623);
+

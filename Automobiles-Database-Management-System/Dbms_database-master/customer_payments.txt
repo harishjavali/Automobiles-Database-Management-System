@@ -1,0 +1,13 @@
+cpid,csid,cid,psc,cpdue,cpdate,payamt
+insert into customer_payments values(911,711,111,811,NULL,NULL,NUll);
+insert into customer_payments values(912,712,112,812,NULL,NULL,NULL);
+insert into customer_payments values(913,713,113,813,"2020-03-03","2020-03-03",272000);
+insert into customer_payments values(914,714,114,814,"2019-12-01","2019-12-01",508000);
+insert into customer_payments values(915,715,115,815,NULL,NULL,NULL);
+insert into customer_payments values(916,716,116,816,"2020-02-20","2020-02-20",532000);
+insert into customer_payments values(917,717,117,817,NULL,NULL,NULL);
+insert into customer_payments values(918,718,118,818,"2020-01-15","2020-01-15",222000);
+insert into customer_payments values(919,719,119,819,"2020-01-16","2020-01-17",170000);
+insert into customer_payments values(920,720,120,820,"2020-03-10","2020-03-18",323000);
+insert into customer_payments values(921,721,121,821,"2020-03-08","2020-03-08",433500);
+insert into customer_payments values(922,722,122,822,"2020-02-25","2020-02-26",193000);

@@ -1,0 +1,12 @@
+insert into payment_status values(811,"Paid");
+insert into payment_status values(812,"Paid");
+insert into payment_status values(813,"2 installments");
+insert into payment_status values(814,"1 installment");
+insert into payment_status values(815,"Paid");
+insert into payment_status values(816,"2 installments");
+insert into payment_status values(817,"Paid");
+insert into payment_status values(818,"2 installments");
+insert into payment_status values(819,"3 installments");
+insert into payment_status values(820,"2 installments");
+insert into payment_status values(821,"1 installment");
+insert into payment_status values(822,"3 installments");

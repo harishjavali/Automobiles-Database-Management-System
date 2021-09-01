@@ -1,0 +1,7 @@
+insert into car_manufactures values("Toyota","Japan",1);
+insert into car_manufactures values("Honada","Japan",3);
+insert into car_manufactures values("Hyundai","South Korea",2);
+insert into car_manufactures values("Suzuki","Japan",4);
+insert into car_manufactures values("Kia","South Korea",5);
+
+
